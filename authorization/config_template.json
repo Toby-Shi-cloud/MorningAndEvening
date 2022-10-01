@@ -1,0 +1,20 @@
+{
+  "appID": "微信测试号ID",
+  "appSecret": "微信测试号API密钥",
+  "thinkAPI": "topthink/thinkAPI密钥，用于万年历",
+  "自定义用户名称":
+  {
+    "userID": "关注后，可在测试台后台查询用户的openID",
+    "templateID": "模板ID",
+    "city": "查询天气的城市",
+    "countdown":
+    {
+      "事项名称": "格式：YY-mm-dd或mm-dd，用于计算还有多少天到来"
+    },
+    "countup":
+    {
+      "事项名称": "格式：YY-mm-dd，用于计算已经过去多少天"
+    }
+  },
+  "motto_num": "motto.txt里面的句子的个数，默认是60"
+}
