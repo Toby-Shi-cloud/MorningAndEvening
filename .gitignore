@@ -1,0 +1,7 @@
+.idea
+.vscode
+
+*.pyc
+
+config.json
+template*.txt
