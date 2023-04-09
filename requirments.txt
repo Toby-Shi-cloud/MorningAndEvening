@@ -1,3 +1,2 @@
-schedule
 wechatpy
 requests

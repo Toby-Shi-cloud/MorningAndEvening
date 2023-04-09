@@ -2,7 +2,8 @@
   "appID": "微信测试号ID",
   "appSecret": "微信测试号API密钥",
   "thinkAPI": "topthink/thinkAPI密钥，用于万年历",
-  "自定义用户名称":
+  "copyTo": "用于发送拷贝的UserId",
+  "自定义用户名称1":
   {
     "userID": "关注后，可在测试台后台查询用户的openID",
     "templateID": "模板ID",
@@ -16,5 +17,6 @@
       "事项名称": "格式：YY-mm-dd，用于计算已经过去多少天"
     }
   },
+  "自定义用户名称2": {},
   "motto_num": "motto.txt里面的句子的个数，默认是60"
 }
